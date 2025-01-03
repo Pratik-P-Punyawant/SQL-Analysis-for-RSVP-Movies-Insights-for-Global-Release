@@ -4,9 +4,9 @@ This project analyzes movie data from RSVP Movies, an Indian film production com
 Project Overview
 RSVP Movies aims to make data-driven decisions to plan their global release. Using SQL, we have analyzed the movie data provided to uncover key insights related to:
 
-Popular genres
-Optimal movie duration
-Successful collaborators
-Audience preferences
+1. Popular genres
+2. Optimal movie duration
+3. Successful collaborators
+4. Audience preferences
 
 
